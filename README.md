@@ -3,7 +3,7 @@ Desafio Warren web que consiste em implementar uma tela de lista de transações
 
 O desafio deverá conter as seguintes funcionalidades:  
   
-Lista de transações agrupada por data
-Filtro por título
-Filtro por status
-Modal contendo os detalhes da transação
+Lista de transações agrupada por data  
+Filtro por título  
+Filtro por status  
+Modal contendo os detalhes da transação  
